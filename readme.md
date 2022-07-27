@@ -13,10 +13,6 @@ Node farm project is a simple grocery store application with overview and produc
 - html templating
 - npm and package.json
 
-### Live demo link
-
-[url](url)
-
 ## How to Install and Run the Project
 
 1. Clone the project
