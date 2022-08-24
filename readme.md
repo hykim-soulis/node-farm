@@ -49,6 +49,6 @@ Node farm project is a simple grocery store application with overview and produc
 
 This project is a node.js coding-along with the Udemy Node.js, Express, MongoDB & More: The Complete Bootcamp 2022 by instructor Jonas Schmedtmann. Part of HTML and CSS files were provided by the instructor.
 
-The below link is the instructors github address.
+The below link is the instructor's github address.
 
 [Instructor's GitHub](https://github.com/jonasschmedtmann/complete-node-bootcamp)
