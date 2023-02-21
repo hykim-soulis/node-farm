@@ -17,7 +17,7 @@ Node farm project is a simple grocery store application with overview and produc
 
 ### Live demo link
 
-[https://nodefarm-hyeyoung.herokuapp.com/](https://nodefarm-hyeyoung.herokuapp.com/)
+[https://node-farm-hyeyoung.up.railway.app/](https://node-farm-hyeyoung.up.railway.app/)
 
 ## How to Install and Run the Project
 
